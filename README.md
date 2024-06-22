@@ -18,3 +18,10 @@ Once Affign is built, you will need a cascade file for face detection and a trai
 
 ### Inspiration
 Credit to Matthew Earl's work [here](https://matthewearl.github.io/2016/01/22/portrait-timelapse/) for inspiration to make an automatic image aligner available to users.
+
+### Todo
+- [ ] '-h', '--help' args
+- [ ] direct to JPG arg (instead of massive BMPs)
+- [ ] try out different detection models
+- [ ] arg for saving missed/skipped image filenames to txt file
+- [ ] see if there's any other similar github projects
